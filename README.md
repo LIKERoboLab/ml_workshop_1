@@ -1,3 +1,3 @@
 # kaggle_workshop
 
-Little workshop about kaggle competitions!
+RoboLab workshop about kaggle competitions!
