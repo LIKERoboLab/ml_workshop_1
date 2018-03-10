@@ -1,3 +1,4 @@
-# kaggle_workshop
+# ML workshop #1
 
-RoboLab workshop about kaggle competitions!
+Hands-on workshop introducing several ml models and kaggle competitions.
+
